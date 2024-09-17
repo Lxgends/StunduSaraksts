@@ -1,0 +1,16 @@
+/* Main page */
+
+.main{
+    display: flex;
+    width: auto;
+    height: auto;
+}
+
+/* Navbar */
+
+.navbar{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100vw;
+    background-color: rgb(40, 37, 96);
+}
